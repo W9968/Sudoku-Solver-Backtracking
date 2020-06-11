@@ -8,4 +8,4 @@ At the end of the class, you should have noted the presence of the display metho
 
 
 
-![Image of Yaktocat](https://i.redd.it/jk0kfe2jlc451.png)
+![Excution of the code](https://i.redd.it/jk0kfe2jlc451.png)
